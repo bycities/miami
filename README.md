@@ -1,2 +1,3 @@
-# miami
-by Cities Miami 🌴
+![Miami Gif](miami.gif)
+
+> by Cities Miami 🌴
